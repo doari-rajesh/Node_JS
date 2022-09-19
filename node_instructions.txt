@@ -1,0 +1,11 @@
+Node Js =>
+Node JS is a runtime environment for executing javascript outside browser.
+Node JS runs javascript code in a single thread. 
+
+
+To iniitialize a project as node project we use command
+---> npm init 
+
+To install external package we write 
+---> npm install express --save
+It will create node_module directory in that it contains express package
